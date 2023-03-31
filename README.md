@@ -2,9 +2,9 @@
 
 ### Libraries used
 
-**asyncio:** Asynchronous IO
-**random :** generate random numbers
-**websockets :** To create a webscoket connection
+**asyncio:** Asynchronous IO.\
+**random :** generate random numbers.\
+**websockets :** To create a webscoket connection.
 
 ## Available Scripts
 
