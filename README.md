@@ -10,6 +10,22 @@
 
 In the project directory, you can run:
 
+### 👇️ in a virtual environment or using Python 2
+
+pip install -r requirements.txt
+
+### 👇️ if you use Python 3 outside a virtual environment
+
+pip3 install -r requirements.txt
+
+### 👇️ if you don't have pip in your PATH environment variable
+
+python -m pip install -r requirements.txt
+
+### 👇️ for python 3 (could also be pip3.10 depending on your version)
+
+python3 -m pip install -r requirements.txt
+
 ### `python/python3 server.py`
 
 Runs the app in the development mode.\
