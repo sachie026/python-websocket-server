@@ -10,10 +10,6 @@
 
 In the project directory, you can run:
 
-### `pip install -r requirements.txt`
-
-To install all the required dependencies
-
 ### `python server.py`
 
 Runs the app in the development mode.\
