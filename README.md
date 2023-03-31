@@ -1,6 +1,6 @@
 # Getting Started with Python websocket server app
 
-### Libraries used
+### Modules used
 
 **asyncio:** Asynchronous IO.\
 **random :** generate random numbers.\
